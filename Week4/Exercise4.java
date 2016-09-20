@@ -9,7 +9,7 @@ public class Exercise4 {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Give a valid postal code");
+        System.out.println("Please enter a valid postal code");
 
         boolean check = true;
 
